@@ -1,1 +1,1 @@
-# nessie-dim-wishlist
+# Neslein and Bossies DIM wishlist and recommendations
