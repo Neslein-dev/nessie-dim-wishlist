@@ -1,1 +1,64 @@
-
+{
+    "description": "PvP rolls",
+    "name": "Bossie og Nesleins ønskeliste",
+    "data": [
+        {
+            "description": "Bossie`s god roll  - Der er så mange 140 Rpm handcanons i spillet, at den eneste måde Rose differentiere sig på, er at den kan rolle med elemental capcitor, rangefinder og giver plus 20 til mobility på grund af dens frame.  Masterwork: Range eller stability. ",
+            "hash": 882778888,
+            "name": "Rose - PvP",
+            "plugs": [
+                [
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3511092054
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    3326204863,
+                    862848869
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Dette vil være overall go-to roll til PvP. Masterwork: Range/Stability.",
+            "hash": 882778888,
+            "name": "Rose PvP",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    247725512,
+                    3161816588
+                ],
+                [
+                    2846385770,
+                    3038247973
+                ],
+                [
+                    3326204863,
+                    862848869
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        }
+    ]
+}
