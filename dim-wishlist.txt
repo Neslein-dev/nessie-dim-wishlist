@@ -1,12 +1,1 @@
-title:Nessie
-description:sodgm
 
-// Dark Decider - God Roll PvE (god-pve,controller)
-//notes: iosdgsiodgois sdfiophnsdiogh sndiognsdiog sdogmsopdg tags:god-pve,controller
-dimwishlist:item=540880995&perks=3661387068,1087426260,1820235745
-dimwishlist:item=540880995&perks=3661387068,1087426260,1359896290
-
-
-// Dark Decider - God roll PvP (god-pvp,controller)
-//notes: iowsdrhgi9o0sdhgiosdg tags:god-pvp,controller
-dimwishlist:item=540880995&perks=839105230,3142289711,1359896290,2846385770
